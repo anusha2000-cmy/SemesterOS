@@ -1,0 +1,38 @@
+Course: CS 271 - Machine Learning
+Semester: Fall 2026
+Instructor: Dr. Maya Rao
+Credits: 3
+
+Course Description:
+This course introduces supervised learning, unsupervised learning, neural networks, model evaluation, and responsible AI. Students will complete programming assignments, quizzes, a midterm, a final project, and a final exam.
+
+Grading Policy:
+Programming Assignments: 30%
+Quizzes: 10%
+Midterm Exam: 20%
+Final Project: 25%
+Final Exam: 15%
+
+Important Dates:
+Quiz 1: Probability and Linear Algebra Review - September 23, 2026
+Project Proposal - Due October 2, 2026
+Midterm Exam - October 21, 2026
+Project Checkpoint - Due November 18, 2026
+Final Project Report and Demo - Due December 4, 2026
+Final Exam - December 14, 2026
+
+Weekly Topics:
+Week 1: Introduction to Machine Learning
+Week 2: Linear Regression
+Week 3: Gradient Descent
+Week 4: Classification
+Week 5: Decision Trees and Random Forests
+Week 6: Model Evaluation
+Week 7: Midterm Review
+Week 8: Neural Networks
+Week 9: Deep Learning Basics
+Week 10: Clustering
+Week 11: Dimensionality Reduction
+Week 12: Responsible AI
+Week 13: Project Workshops
+Week 14: Final Review

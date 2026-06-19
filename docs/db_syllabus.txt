@@ -1,0 +1,39 @@
+Course: CS 257 - Database Systems
+Semester: Fall 2026
+Instructor: Prof. Daniel Kim
+Credits: 3
+
+Course Description:
+This course covers relational database design, SQL, normalization, transactions, indexing, query optimization, and distributed databases. Students will complete homework assignments, labs, a team project, a midterm, and a final exam.
+
+Grading Policy:
+Homework: 25%
+Labs: 15%
+Midterm Exam: 20%
+Team Project: 25%
+Final Exam: 15%
+
+Schedule and Deadlines:
+Lab 1: SQL Basics - Due September 17, 2026
+Project Milestone 1: Schema Design - Due October 8, 2026
+Midterm Exam - October 19, 2026
+Lab 2: Indexing and Query Plans - Due October 30, 2026
+Project Milestone 2: Backend Integration - Due November 20, 2026
+Final Project Presentation - December 7, 2026
+Final Exam - December 16, 2026
+
+Weekly Topics:
+Week 1: Database Introduction
+Week 2: ER Modeling
+Week 3: Relational Algebra
+Week 4: SQL
+Week 5: Normalization
+Week 6: Indexing
+Week 7: Query Optimization
+Week 8: Transactions
+Week 9: Concurrency Control
+Week 10: Recovery Systems
+Week 11: Distributed Databases
+Week 12: NoSQL Systems
+Week 13: Project Presentations
+Week 14: Final Review

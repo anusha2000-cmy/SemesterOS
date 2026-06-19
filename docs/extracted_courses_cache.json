@@ -1,0 +1,372 @@
+[
+  {
+    "course_name": "CS 257 - Database Systems",
+    "instructor": "Prof. Daniel Kim",
+    "semester": "Fall 2026",
+    "grading_breakdown": {
+      "assignments": "25%",
+      "quizzes": "",
+      "midterm": "20%",
+      "final": "15%",
+      "project": "25%",
+      "participation": "",
+      "other": "15%"
+    },
+    "major_assessments": [
+      {
+        "title": "Lab 1: SQL Basics",
+        "type": "assignment",
+        "date": "September 17, 2026",
+        "weight": ""
+      },
+      {
+        "title": "Midterm Exam",
+        "type": "exam",
+        "date": "October 19, 2026",
+        "weight": "20%"
+      },
+      {
+        "title": "Lab 2: Indexing and Query Plans",
+        "type": "assignment",
+        "date": "October 30, 2026",
+        "weight": ""
+      },
+      {
+        "title": "Final Project Presentation",
+        "type": "project presentation",
+        "date": "December 7, 2026",
+        "weight": ""
+      },
+      {
+        "title": "Final Exam",
+        "type": "exam",
+        "date": "December 16, 2026",
+        "weight": "15%"
+      }
+    ],
+    "project_info": {
+      "has_project": true,
+      "title": "Team Project",
+      "weight": "25%",
+      "milestones": [
+        {
+          "title": "Project Milestone 1: Schema Design",
+          "date": "October 8, 2026"
+        },
+        {
+          "title": "Project Milestone 2: Backend Integration",
+          "date": "November 20, 2026"
+        },
+        {
+          "title": "Final Project Presentation",
+          "date": "December 7, 2026"
+        }
+      ]
+    },
+    "weekly_topics": [
+      {
+        "week": "1",
+        "topic": "Database Introduction"
+      },
+      {
+        "week": "2",
+        "topic": "ER Modeling"
+      },
+      {
+        "week": "3",
+        "topic": "Relational Algebra"
+      },
+      {
+        "week": "4",
+        "topic": "SQL"
+      },
+      {
+        "week": "5",
+        "topic": "Normalization"
+      },
+      {
+        "week": "6",
+        "topic": "Indexing"
+      },
+      {
+        "week": "7",
+        "topic": "Query Optimization"
+      },
+      {
+        "week": "8",
+        "topic": "Transactions"
+      },
+      {
+        "week": "9",
+        "topic": "Concurrency Control"
+      },
+      {
+        "week": "10",
+        "topic": "Recovery Systems"
+      },
+      {
+        "week": "11",
+        "topic": "Distributed Databases"
+      },
+      {
+        "week": "12",
+        "topic": "NoSQL Systems"
+      },
+      {
+        "week": "13",
+        "topic": "Project Presentations"
+      },
+      {
+        "week": "14",
+        "topic": "Final Review"
+      }
+    ],
+    "is_valid_syllabus": true,
+    "validation_reason": "",
+    "missing_info": []
+  },
+  {
+    "course_name": "CS 271 - Machine Learning",
+    "instructor": "Dr. Maya Rao",
+    "semester": "Fall 2026",
+    "grading_breakdown": {
+      "assignments": "30%",
+      "quizzes": "10%",
+      "midterm": "20%",
+      "final": "15%",
+      "project": "25%",
+      "participation": "",
+      "other": ""
+    },
+    "major_assessments": [
+      {
+        "title": "Quiz 1: Probability and Linear Algebra Review",
+        "type": "quiz",
+        "date": "September 23, 2026",
+        "weight": ""
+      },
+      {
+        "title": "Midterm Exam",
+        "type": "exam",
+        "date": "October 21, 2026",
+        "weight": "20%"
+      },
+      {
+        "title": "Final Project Report and Demo",
+        "type": "project submission",
+        "date": "December 4, 2026",
+        "weight": "25%"
+      },
+      {
+        "title": "Final Exam",
+        "type": "exam",
+        "date": "December 14, 2026",
+        "weight": "15%"
+      }
+    ],
+    "project_info": {
+      "has_project": true,
+      "title": "Final Project",
+      "weight": "25%",
+      "milestones": [
+        {
+          "title": "Project Proposal",
+          "date": "October 2, 2026"
+        },
+        {
+          "title": "Project Checkpoint",
+          "date": "November 18, 2026"
+        },
+        {
+          "title": "Final Project Report and Demo",
+          "date": "December 4, 2026"
+        }
+      ]
+    },
+    "weekly_topics": [
+      {
+        "week": "1",
+        "topic": "Introduction to Machine Learning"
+      },
+      {
+        "week": "2",
+        "topic": "Linear Regression"
+      },
+      {
+        "week": "3",
+        "topic": "Gradient Descent"
+      },
+      {
+        "week": "4",
+        "topic": "Classification"
+      },
+      {
+        "week": "5",
+        "topic": "Decision Trees and Random Forests"
+      },
+      {
+        "week": "6",
+        "topic": "Model Evaluation"
+      },
+      {
+        "week": "7",
+        "topic": "Midterm Review"
+      },
+      {
+        "week": "8",
+        "topic": "Neural Networks"
+      },
+      {
+        "week": "9",
+        "topic": "Deep Learning Basics"
+      },
+      {
+        "week": "10",
+        "topic": "Clustering"
+      },
+      {
+        "week": "11",
+        "topic": "Dimensionality Reduction"
+      },
+      {
+        "week": "12",
+        "topic": "Responsible AI"
+      },
+      {
+        "week": "13",
+        "topic": "Project Workshops"
+      },
+      {
+        "week": "14",
+        "topic": "Final Review"
+      }
+    ],
+    "is_valid_syllabus": true,
+    "validation_reason": "",
+    "missing_info": []
+  },
+  {
+    "course_name": "CS 266 - Cloud Computing",
+    "instructor": "Dr. Elena Martinez",
+    "semester": "Fall 2026",
+    "grading_breakdown": {
+      "assignments": "15%",
+      "quizzes": "",
+      "midterm": "20%",
+      "final": "",
+      "project": "25%",
+      "participation": "10%",
+      "other": "Labs: 30%"
+    },
+    "major_assessments": [
+      {
+        "title": "Lab 1: AWS EC2 and IAM Setup",
+        "type": "Lab",
+        "date": "September 12, 2026",
+        "weight": ""
+      },
+      {
+        "title": "Lab 2: Docker Containers",
+        "type": "Lab",
+        "date": "October 3, 2026",
+        "weight": ""
+      },
+      {
+        "title": "Midterm Exam",
+        "type": "Exam",
+        "date": "October 23, 2026",
+        "weight": "20%"
+      },
+      {
+        "title": "Lab 3: Kubernetes Deployment",
+        "type": "Lab",
+        "date": "November 3, 2026",
+        "weight": ""
+      }
+    ],
+    "project_info": {
+      "has_project": true,
+      "title": "Group Project",
+      "weight": "25%",
+      "milestones": [
+        {
+          "title": "Group Project Proposal",
+          "date": "October 7, 2026"
+        },
+        {
+          "title": "Group Project Demo",
+          "date": "November 30, 2026"
+        },
+        {
+          "title": "Group Project Report",
+          "date": "December 5, 2026"
+        }
+      ]
+    },
+    "weekly_topics": [
+      {
+        "week": "1",
+        "topic": "Cloud Computing Overview"
+      },
+      {
+        "week": "2",
+        "topic": "AWS Basics"
+      },
+      {
+        "week": "3",
+        "topic": "Identity and Access Management"
+      },
+      {
+        "week": "4",
+        "topic": "Virtual Machines"
+      },
+      {
+        "week": "5",
+        "topic": "Containers"
+      },
+      {
+        "week": "6",
+        "topic": "Kubernetes"
+      },
+      {
+        "week": "7",
+        "topic": "Midterm Review"
+      },
+      {
+        "week": "8",
+        "topic": "Serverless Computing"
+      },
+      {
+        "week": "9",
+        "topic": "Observability"
+      },
+      {
+        "week": "10",
+        "topic": "Reliability Engineering"
+      },
+      {
+        "week": "11",
+        "topic": "Cloud Security"
+      },
+      {
+        "week": "12",
+        "topic": "Cost Optimization"
+      },
+      {
+        "week": "13",
+        "topic": "Project Demos"
+      },
+      {
+        "week": "14",
+        "topic": "Final Wrap-up"
+      }
+    ],
+    "is_valid_syllabus": true,
+    "validation_reason": "",
+    "missing_info": [
+      "No specific titles or due dates provided for 'Architecture Assignments' (15% of grade).",
+      "No final exam explicitly mentioned.",
+      "Individual weights for labs are not specified, only a combined 'Labs: 30%'."
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+Course: CS 266 - Cloud Computing
+Semester: Fall 2026
+Instructor: Dr. Elena Martinez
+Credits: 3
+
+Course Description:
+This course introduces cloud infrastructure, virtualization, containers, Kubernetes, serverless computing, monitoring, reliability, and cloud security. Students will complete labs, architecture assignments, a group project, and exams.
+
+Grading Policy:
+Labs: 30%
+Architecture Assignments: 15%
+Midterm Exam: 20%
+Group Project: 25%
+Participation: 10%
+
+Assignments and Exams:
+Lab 1: AWS EC2 and IAM Setup - Due September 12, 2026
+Lab 2: Docker Containers - Due October 3, 2026
+Group Project Proposal - Due October 7, 2026
+Midterm Exam - October 23, 2026
+Lab 3: Kubernetes Deployment - Due November 3, 2026
+Group Project Demo - November 30, 2026
+Group Project Report - Due December 5, 2026
+
+Weekly Topics:
+Week 1: Cloud Computing Overview
+Week 2: AWS Basics
+Week 3: Identity and Access Management
+Week 4: Virtual Machines
+Week 5: Containers
+Week 6: Kubernetes
+Week 7: Midterm Review
+Week 8: Serverless Computing
+Week 9: Observability
+Week 10: Reliability Engineering
+Week 11: Cloud Security
+Week 12: Cost Optimization
+Week 13: Project Demos
+Week 14: Final Wrap-up

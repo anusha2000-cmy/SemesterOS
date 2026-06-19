@@ -1,0 +1,551 @@
+[
+  {
+    "week": 1,
+    "weekly_focus": "Course Introductions and Initial Project Planning",
+    "workload_level": "Low",
+    "reason": "Initial setup, reviewing course expectations, and light project brainstorming.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "Low",
+        "tasks": [
+          "Review lecture notes for Database Introduction",
+          "Review Team Project requirements and brainstorm initial ideas"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "Low",
+        "tasks": [
+          "Review lecture notes for Introduction to Machine Learning",
+          "Review Final Project requirements and brainstorm initial ideas"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "Low",
+        "tasks": [
+          "Review lecture notes for Cloud Computing Overview",
+          "Review Group Project requirements and brainstorm initial ideas"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 2,
+    "weekly_focus": "AWS Basics and Early Project Research",
+    "workload_level": "Medium",
+    "reason": "First lab due for CS 266, continued early project research and planning.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "Medium",
+        "tasks": [
+          "Review lecture notes for ER Modeling",
+          "Continue working on Team Project (e.g., initial research for schema design)"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "Medium",
+        "tasks": [
+          "Review lecture notes for Linear Regression",
+          "Continue working on Final Project (e.g., refining proposal ideas)"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for AWS Basics",
+          "Start working on Lab 1: AWS EC2 and IAM Setup",
+          "Submit/Complete Lab 1: AWS EC2 and IAM Setup"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 3,
+    "weekly_focus": "SQL Basics, Probability Quiz, and Project Proposal Refinement",
+    "workload_level": "High",
+    "reason": "Quiz 1 and Lab 1 due, initial project milestone focus and preparation for upcoming project proposals.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Relational Algebra",
+          "Start working on Lab 1: SQL Basics",
+          "Submit/Complete Lab 1: SQL Basics",
+          "Focus on Project Milestone 1: Schema Design for Team Project"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Gradient Descent",
+          "Prepare for Quiz 1: Probability and Linear Algebra Review",
+          "Take/Complete Quiz 1: Probability and Linear Algebra Review",
+          "Finalize Project Proposal"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "Medium",
+        "tasks": [
+          "Review lecture notes for Identity and Access Management",
+          "Continue working on Group Project (e.g., initial research for proposal)"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 4,
+    "weekly_focus": "Project Proposal Development and Container Introduction",
+    "workload_level": "Medium",
+    "reason": "Project proposal preparation for CS 271 and CS 266, and starting a new lab.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "Medium",
+        "tasks": [
+          "Review lecture notes for SQL",
+          "Continue working on Team Project (Schema Design)"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Classification",
+          "Finalize Project Proposal"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Virtual Machines",
+          "Start working on Lab 2: Docker Containers",
+          "Focus on Group Project Proposal"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 5,
+    "weekly_focus": "Project Proposal and Docker Lab Submissions",
+    "workload_level": "High",
+    "reason": "Multiple project proposals and a lab are due, setting the stage for major project work.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Normalization",
+          "Finalize Project Milestone 1: Schema Design for Team Project"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Decision Trees and Random Forests",
+          "Submit/Complete Project Proposal",
+          "Begin initial implementation or data gathering for Final Project"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Containers",
+          "Submit/Complete Lab 2: Docker Containers",
+          "Submit/Complete Group Project Proposal"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 6,
+    "weekly_focus": "Midterm Preparation and Project Milestone 1 Completion",
+    "workload_level": "High",
+    "reason": "A significant project milestone is due, and midterm exam preparation begins for two courses.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Indexing",
+          "Submit/Complete Project Milestone 1: Schema Design",
+          "Begin midterm preparation for CS 257"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Model Evaluation",
+          "Begin midterm preparation for CS 271",
+          "Continue working on Final Project (implementation/data analysis)"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "Medium",
+        "tasks": [
+          "Review lecture notes for Kubernetes",
+          "Continue working on Group Project (initial setup/research based on proposal)"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 7,
+    "weekly_focus": "Midterm Exams for Database Systems and Machine Learning",
+    "workload_level": "Critical",
+    "reason": "Two major midterm exams require focused preparation and completion.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Query Optimization",
+          "Complete final review for CS 257 Midterm Exam",
+          "Take/Complete CS 257 Midterm Exam",
+          "Start working on the next phase of Team Project"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Midterm Review",
+          "Complete final review for CS 271 Midterm Exam",
+          "Take/Complete CS 271 Midterm Exam",
+          "Continue working on Final Project"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Midterm Review",
+          "Begin midterm preparation for CS 266",
+          "Continue working on Group Project"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 8,
+    "weekly_focus": "Cloud Computing Midterm and Lab 2 for Databases",
+    "workload_level": "High",
+    "reason": "One major midterm exam, new lab starting for CS 257, and continued project work.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Transactions",
+          "Start working on Lab 2: Indexing and Query Plans",
+          "Continue working on Team Project (e.g., starting backend integration planning)"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "Medium",
+        "tasks": [
+          "Review lecture notes for Neural Networks",
+          "Continue working on Final Project"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Serverless Computing",
+          "Complete final review for CS 266 Midterm Exam",
+          "Take/Complete CS 266 Midterm Exam",
+          "Continue working on Group Project"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 9,
+    "weekly_focus": "Lab Submissions for Databases and Kubernetes",
+    "workload_level": "High",
+    "reason": "Two significant labs are due, along with ongoing project development.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Concurrency Control",
+          "Submit/Complete Lab 2: Indexing and Query Plans",
+          "Continue working on Team Project (Backend Integration)"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "Medium",
+        "tasks": [
+          "Review lecture notes for Deep Learning Basics",
+          "Continue working on Final Project"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Observability",
+          "Start working on Lab 3: Kubernetes Deployment",
+          "Submit/Complete Lab 3: Kubernetes Deployment"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 10,
+    "weekly_focus": "Final Exam Preparation Begins for Machine Learning",
+    "workload_level": "Medium",
+    "reason": "Final exam preparation begins for one course, with continued moderate project work.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "Medium",
+        "tasks": [
+          "Review lecture notes for Recovery Systems",
+          "Continue working on Team Project (Backend Integration)"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Clustering",
+          "Begin final exam preparation for CS 271",
+          "Continue working on Final Project"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "Medium",
+        "tasks": [
+          "Review lecture notes for Reliability Engineering",
+          "Continue working on Group Project (e.g., preparing for demo)"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 11,
+    "weekly_focus": "Project Checkpoint and Final Exam Prep for Database Systems",
+    "workload_level": "High",
+    "reason": "Project checkpoint due for CS 271, final exam preparation begins for CS 257, and focused work on upcoming project milestones/demos.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Distributed Databases",
+          "Begin final exam preparation for CS 257",
+          "Focus on Project Milestone 2: Backend Integration for Team Project"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Dimensionality Reduction",
+          "Submit/Complete Project Checkpoint"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Cloud Security",
+          "Focus on Group Project Demo"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 12,
+    "weekly_focus": "Project Milestone 2 and Intensified Project Work",
+    "workload_level": "High",
+    "reason": "Project milestone due for CS 257, and intensive project work for demos and reports in CS 271 and CS 266.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for NoSQL Systems",
+          "Submit/Complete Project Milestone 2: Backend Integration",
+          "Start preparing for Final Project Presentation"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Responsible AI",
+          "Focus on Final Project Report and Demo"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Cost Optimization",
+          "Continue focusing on Group Project Demo"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 13,
+    "weekly_focus": "Group Project Demo and Final Project Preparation",
+    "workload_level": "Critical",
+    "reason": "Major project demo due for CS 266, heavy project presentation/report preparation for CS 257 and CS 271, plus ongoing final exam preparation.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Project Presentations",
+          "Prepare for Final Project Presentation"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Project Workshops",
+          "Continue focusing on Final Project Report and Demo"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Project Demos",
+          "Submit/Complete Group Project Demo",
+          "Start working on Group Project Report"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 14,
+    "weekly_focus": "All Major Project Submissions and Course Wrap-ups",
+    "workload_level": "Critical",
+    "reason": "All major project presentations, reports, and demos are due, alongside final review for courses.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Final Review",
+          "Submit/Complete Final Project Presentation"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Final Review",
+          "Submit/Complete Final Project Report and Demo"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "High",
+        "tasks": [
+          "Review lecture notes for Final Wrap-up",
+          "Submit/Complete Group Project Report",
+          "Complete final review for CS 266 (course wrap-up)"
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  },
+  {
+    "week": 15,
+    "weekly_focus": "Final Exams",
+    "workload_level": "Critical",
+    "reason": "The final week consists of multiple comprehensive final exams.",
+    "course_tasks": [
+      {
+        "course_name": "CS 257 - Database Systems",
+        "priority": "High",
+        "tasks": [
+          "Complete final review for CS 257 Final Exam",
+          "Take/Complete CS 257 Final Exam"
+        ]
+      },
+      {
+        "course_name": "CS 271 - Machine Learning",
+        "priority": "High",
+        "tasks": [
+          "Complete final review for CS 271 Final Exam",
+          "Take/Complete CS 271 Final Exam"
+        ]
+      },
+      {
+        "course_name": "CS 266 - Cloud Computing",
+        "priority": "Low",
+        "tasks": [
+          "No final exam scheduled for this course."
+        ]
+      }
+    ],
+    "weekly_buffer_tasks": [
+      "Assignment Buffer: Reserve time for active homework, lab, or project work"
+    ]
+  }
+]
